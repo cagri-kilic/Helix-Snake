@@ -1,0 +1,10 @@
+Salman;10000
+Feridun;8000
+Tugce;4000
+Serkan;1200
+Boran;900
+Simge;700
+Berat;500
+Deniz;250
+Tulay;100
+cem (YILAN SERDAR MODE);55
