@@ -10,3 +10,6 @@ Helix Snake is a simple and fun **Java-based Snake Game** inspired by the classi
 
 ## 🛠️ Technologies Used
 - **Programming Language:** Java
+
+## ⚠️ Note: Academic Project  
+This project was developed in **2017** as part of a **Java course**. It was created for learning purposes and may not follow modern best practices. 🚀  
